@@ -1,4 +1,9 @@
 name: NoItemDamage
 main: me.hardmcore.MainClass
-version: 1.0.0
+version: 2.0
 api-version: 1.13
+commands:
+  noitemdmg:
+permissions:
+  noitemdmg:
+    default: op
