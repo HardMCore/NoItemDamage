@@ -10,7 +10,7 @@ Commands:
 
 - /noitemdmg on - turns on plugin and makes all items unbreakable (default setting)
 
-- /noitemdmg off - turns off plugin and makes all times possible to break again
+- /noitemdmg off - turns off plugin and makes all items possible to break again
 
  
 
